@@ -1,0 +1,7 @@
+[Sat Mar  2 22:24:57 2013] [info] Listening at "http://*:3000".
+[Sat Mar  2 22:25:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Mar  2 22:25:20 2013] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:18.0) Gecko/20100101 Firefox/18.0).
+[Sat Mar  2 22:25:20 2013] [debug] Routing to controller "InstantWebApplication::Example" and action "welcome".
+[Sat Mar  2 22:25:20 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Mar  2 22:25:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Mar  2 22:25:20 2013] [debug] 200 OK (0.049798s, 20.081/s).
